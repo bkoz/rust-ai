@@ -3,7 +3,7 @@
   "features": {
     "ghcr.io/devcontainers/features/rust:1": {},
 	"ghcr.io/prulloac/devcontainer-features/ollama:1": {
-			"pull": "all-minilm, qwen3:4b"
+			"pull": "all-minilm, llama3.1:8b"
 		}
   },
   	// Configure tool-specific properties.
